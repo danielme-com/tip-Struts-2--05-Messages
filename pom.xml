@@ -24,7 +24,7 @@
 	</licenses>
 
     <properties>
-        <struts2.version>2.3.15.1</struts2.version>
+        <struts2.version>2.3.16</struts2.version>
     </properties>
     
     
